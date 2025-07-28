@@ -1,4 +1,3 @@
-```markdown
 # The Unwavering God: A Covenant That Lasts
 
 ## Podcast Script: Deuteronomy 7:9
@@ -145,5 +144,4 @@ So, I urge you today: **Know Him.** Deepen your relationship with the God who ne
 #KnowGod
 #ObeyGod
 #GenerationalBlessing
-```
 ```
