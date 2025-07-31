@@ -2,7 +2,7 @@ My beloved brothers and sisters, co-heirs with Christ, sons and daughters of the
 
 ---
 
-```markdown
+
 # Podcast Title: The Humility Revolution
 
 ## Episode: Unlocking True Significance
@@ -134,4 +134,3 @@ Go forth, beloved, and live out this truth! Be blessed, be transformed, and be a
 *   #ChristianLiving
 *   #WordOfGod
 *   #TransformYourLife
-```
